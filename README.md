@@ -112,7 +112,7 @@ MIT © [Vanshika verma](/LICENSE)
 
 <br><br>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/vanshika-verma14"> Deeptansh Nagar</a>
+  Made with ❤️ by <a href="https://github.com/vanshika-verma14"> Vanshika verma </a>
 </p>
 
 ![wave](http://cdn.thekrishna.in/img/common/border.png)
