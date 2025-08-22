@@ -107,12 +107,12 @@ Action: Text has been blocked.
 - Add credentails for your MySQL, Twitter API and MongoDB into the Flask Apps. Also, Import our Dashboard JSON into your Grafana Server and configure your data sources accordingly. 
 
 ## License
-MIT © [Deeptansh](/LICENSE)
+MIT © [Vanshika verma](/LICENSE)
 
 
 <br><br>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/DeeptanshNagar"> Deeptansh Nagar</a>
+  Made with ❤️ by <a href="https://github.com/vanshika-verma14"> Deeptansh Nagar</a>
 </p>
 
 ![wave](http://cdn.thekrishna.in/img/common/border.png)
